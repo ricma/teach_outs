@@ -1,0 +1,56 @@
+* Disclaimer
+I will be on strike on all days except Wednesdays in the w/c [2025-10-13 Mon]
+and [2025-10-20 Mon].
+
+This is in a dispute between the University and College Union (UCU) with the
+management of the university over a potential reconstruction of the university
+and a huge cuts to staff numbers.
+
+We are worried that it will lead to a massive decline in module choices for
+students especially in their final years, more workload to staff and therefore a
+decline in the quality of teaching.
+[[https://uonucu.org/why-these-cuts-are-a-bad-idea/]].
+
+These decisions to restructure and massive cuts to the workforce are a choice.
+However, management does not seem to listen to any alternative financial
+proposals, see [[https://uonucu.org/alternative-fininacial-strategy/]].
+
+No member of staff takes withdrawal of their work lightly. We love to teach, we
+love to explain, we love our time in lecture halls and class rooms. We know that
+the effect on student's learning is dramatic - but it is our only option to
+fight against the measures mentioned above. And believe me, the financial cut we
+are taking to prove this point is not marginal either as we loose several weeks
+worth of pay over this. We literally put our money where our mouth is.
+
+* Meeting Details
+But because we enjoy teaching and care about your experience, we would still
+like to offer alternatives in form of teach outs. These will not cover any
+material relevant for the exams but they will cover interesting topics of
+mathematics.
+
+I would like to invite everyone who is interested to join me
+
+- When? Tuesday, 14/10/2025, between 10:00 and 12:00 as well as
+        Tuesday, 21/10/2025, between 10:00 and 12:00
+
+- Where? Mrs B's Catering Cafe
+
+  This is opposite the play ground at the South Entrance, across the road.
+
+  See this link for a map
+  [[https://www.openstreetmap.org/?mlat=52.936441&mlon=-1.188025#map=17/52.936441/-1.188025]]
+
+  The what-three-words for it is [[https://what3words.com/stress.daily.small][///stress.daily.small]]
+
+  If you can see my yellow bicycle parked, then I won't be far.
+
+- What will this be about?
+
+  I would like to take you on a journey about chaos and chaotic dynamics. What
+  is it? Where can we find it? What do fractals have to do with it? How can you
+  experiment yourself with it?
+
+  If you bring your laptop, then we might look at some python code.
+
+  I have not yet decided what to do on the second date - it will depend on how
+  the first meeting goes.
