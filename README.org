@@ -37,6 +37,8 @@ I would like to invite everyone who is interested to join me
 
   This is opposite the play ground at the South Entrance, across the road.
 
+  [[file:./resources/figures/map_cafe.png]]
+
   See this link for a map
   [[https://www.openstreetmap.org/?mlat=52.936441&mlon=-1.188025#map=17/52.936441/-1.188025]]
 
