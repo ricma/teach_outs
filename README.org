@@ -46,11 +46,18 @@ I would like to invite everyone who is interested to join me
 
 - What will this be about?
 
-  I would like to take you on a journey about chaos and chaotic dynamics. What
-  is it? Where can we find it? What do fractals have to do with it? How can you
-  experiment yourself with it?
+  1. Session on 14/10/2025:
 
-  If you bring your laptop, then we might look at some python code.
+     I would like to take you on a journey about *Chaos and Chaotic Dynamics*.
+     What is it? Where can we find it? What do fractals have to do with it? How
+     can you experiment yourself with it?
 
-  I have not yet decided what to do on the second date - it will depend on how
-  the first meeting goes.
+     If you bring your laptop, then we might look at some python code.
+
+  2. Session on 21/10/2025:
+
+     We will investigate Christian Huygen's invention of a so-called *isochronous pendulum*.
+
+     We start with a few simple numerical experiments setting the scene. The we
+     will explore potential options and finally we will look at what the
+     solution looks like - the *Cycloid Pendulum*.
